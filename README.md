@@ -27,3 +27,8 @@
   ```
   curl -o .gitignore -L https://www.gitignore.io/api/intellij+all,java,maven
   ```
+
+* Clonez de préférence le dépôt en ligne de commande (`git clone …`) **avant** de l'importer dans IntelliJ avec  
+<kbd>File → New → Project-from-Existing-Sources…</kbd> ; <kbd>Import project from external model → Maven</kbd>
+
+* Poussez un premier commit, mettant à jour votre NOM / Prénom / Groupe de TP (`[x]`)
