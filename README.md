@@ -1,8 +1,13 @@
 # M1 DL/IHM - UE WebX - TP1
 
-* NOM :
-* Prénom :
-* Groupe de TP :
+### LAST NAME :
+### First name :
+### TP group :
+- [ ] 11
+- [ ] 12
+- [ ] 21
+- [ ] 22
+
 
 ## Rappels
 
