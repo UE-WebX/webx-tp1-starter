@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- Pour mieux comprendre les attributs de la balise schéma ci-dessous, consultez https://www.w3schools.com/xml/schema_schema.asp -->
+<!-- Les attributs xmlns et targetNamespace sont à remplir -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+           xmlns=""
+           targetNamespace=""
+           elementFormDefault="qualified">
+    <!-- Schéma à compléter -->
+</xsd:schema>
